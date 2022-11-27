@@ -4,7 +4,7 @@
 ### <div align="center">My name is Matheus, and I'm currently studying computer science</div>  
   
 
-- 🔭 I’m currently working on my[site](https://prophantasia.github.io/site/)  
+- 🔭 I’m currently working on my [site](https://prophantasia.github.io/site/)  
   
 
 - 🌱 I’m currently learning HTML, CSS and Javascript  
@@ -79,7 +79,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=prophantasia&&style=flat-square" align="center" />
 </div>  
   
 
