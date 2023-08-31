@@ -1,19 +1,19 @@
 <img src="https://media1.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif?cid=790b76116991cd83567b38ef91404f312923767c7d32c54c&rid=giphy.gif&ct=g" align="left" style="width: 100%" />  
   
 
-### <div align="center">My name is Matheus, and I'm currently studying computer science</div>  
+### <div align="center">My name is Matheus, and I'm currently studying analysis and systems development</div>  
   
 
 - 🔭 I’m currently working on my [site](https://prophantasia.github.io/site/)  
   
 
-- 🌱 I’m currently learning HTML, CSS and Javascript  
+- 🌱 I’m currently learning JAVA.  
   
 
-- ❓ I like animals and space !  
+- ❓ I like animals, pudim and space !  
   
 
-<br/>  
+<br>  
 <br>
 <br>
 <br>
