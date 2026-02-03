@@ -75,7 +75,7 @@ Alguns projetos que representam bem meu trabalho:
 - 🤝 Gosto de trocar conhecimento e colaborar
 
 📧 **Email:** matheusxp100@hotmail.com  
-🔗 **LinkedIn:** (adicione o link aqui)
+🔗 **LinkedIn:** https://www.linkedin.com/in/matheus-c-developer/
 
 ---
 
